@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="R:/My Documents/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/velocity-1.7/velocity-1.7/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/velocity-1.7/velocity-1.7/velocity-1.7-dep.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/javassist.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/procyon-decompiler-0.5.30.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/freemarker-2.3.20.jar"/>
+	<classpathentry kind="lib" path="R:/My Documents/codemodel-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
